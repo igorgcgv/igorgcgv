@@ -1,11 +1,7 @@
 <h1 align="center">Olá👋,Eu sou Igor Cavalcante</h1>
-<h3 align="center">Um apaixonado por dados, Analista de Dados.</h3>
+<h3 align="center"> Analista de BI| Analista de Dados.</h3>
 
-- 🌱 Eu estou aprendendo **Python, R, Hadoop, Spark**
-
-- 💬 Pergunte-me sobre **PowerBi, SQL, Excel, Python**
-
-- 📫 Email **igor.galeno@outlook.com.br**
+Com 2 anos de experiência  atuando como Analista de BI/ Analista de Power BI/ Analista de Dados. Sou proficiente em ferramentas importantes ligado a área de dados como Power BI, Excel, SQL, Python, Airflow, Machine Learning . Forneço insights para as  empresas afim de  tomar decisões baseada em dados e melhorar suas operações, reduzindo custos e maximizando lucros.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
